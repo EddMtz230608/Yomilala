@@ -3,3 +3,5 @@ pandas
 streamlit-drawable-canvas
 Pillow
 openpyxl
+plotly
+numpy
